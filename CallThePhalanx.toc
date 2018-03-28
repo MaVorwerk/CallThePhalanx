@@ -1,0 +1,6 @@
+## Interface: 70300
+## Title: CallThePhalanx
+## Notes: PvP-Announcer
+## SavedVariables: userData
+CallThePhalanx.lua
+CallThePhalanx.xml
